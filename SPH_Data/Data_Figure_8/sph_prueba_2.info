@@ -1,0 +1,1 @@
+{"fname": "sph_prueba_2", "output_dir": "C:\\Users\\alexa\\Documents\\sph proy gordillo\\sim_16_freq_4.000", "args": ["--openmp", "--dx=0.1", "-d", "sim_16_freq_4.000", "--frequency", "25.132741228718345"], "completed": true, "cpu_time": 6450.041351079941}
