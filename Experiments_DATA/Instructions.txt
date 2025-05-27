@@ -1,0 +1,7 @@
+*******************************************************
+       Synchrowave_PNAS/Experiments_DATA
+*******************************************************
+
+The folder "PNAS_Fig_3" contains all experimental measurements shown in Fig. 3 of the PNAS article in .mat files (readable using MATLAB).
+
+The folder "st_diagram_matlab" contains the experimental data for the spatiotemporal diagrams in .mat files (readable using MATLAB). The name of each file corresponds to the frequency in Hz. 
